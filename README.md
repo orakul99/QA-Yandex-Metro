@@ -30,6 +30,9 @@
 
 **[Баг-репорты](https://docs.google.com/spreadsheets/d/1cFHnevFkwZB6M-HVHbWToRrhb8QN3Y2Vgmcdj5lsPd4/edit?gid=591572137#gid=591572137)**  
 
+**[Карта объектов функционального тестирования (MindMap)](https://xmind.ai/share/7Ld1DK1I?xid=TTH39f1w)**
+
+**[Карта объектов регрессионного тестирования (MindMap)](https://xmind.ai/share/YLkK8HH9?xid=YWrkNde6)**
 
 ## Отчёт
 
